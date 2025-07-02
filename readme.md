@@ -71,7 +71,8 @@ Key features include core transformations like rotation, zoom, offset, and flip,
 ComfyUI-EsesImageLoader/
 ├── init.py                     # Main module defining the custom node.
 ├── image_transform.py          # The Python file containing the node logic.
-└── README.md                   # This file.
+├── README.md                   # This file.
+└── LICENSE.txt                 # Please read this file before using this node.
 ```
 
 
